@@ -19,3 +19,6 @@ Use Pcap to find:
 ## Visualization
 1) Visualize the above simulation using NetAnim/PyViz in ns3. You will have to run the simulation during the demo. 
 2) Paste a screenshot and report your observations of the simulation in your pdf.
+
+NOTE:
+The visualization is done using NetAnim
